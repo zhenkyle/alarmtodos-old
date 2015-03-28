@@ -2,5 +2,5 @@ build
 bin
 .bundle
 *.DS_Store
-src/bower_components/*
+src/vendor/*
 node_modules/*
