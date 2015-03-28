@@ -10,7 +10,8 @@ requirejs.config({
         jquery: '../bower_components/jquery/dist/jquery',
         requirejs: '../bower_components/requirejs/require',
         underscore: '../bower_components/underscore/underscore',
-        'backbone.localStorage': '../bower_components/backbone.localStorage/backbone.localStorage'
+        'backbone.localStorage': '../bower_components/backbone.localStorage/backbone.localStorage',
+        qunit: '../bower_components/qunit/qunit/qunit'
     },
     packages: [
 

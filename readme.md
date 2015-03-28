@@ -97,4 +97,5 @@ bower install jquery --save
 bower install requirejs --save
 bower install font-awesome --save
 bower install backbone.localStorage --save
+bower install qunit --save-dev
 ```
