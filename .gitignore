@@ -1,0 +1,7 @@
+build
+bin
+.bundle
+*.DS_Store
+src/css/*
+src/bower_components/*
+node_modules/*
