@@ -1,6 +1,5 @@
 build
-bin
 .bundle
 *.DS_Store
-src/vendor/*
+vendor/*
 node_modules/*

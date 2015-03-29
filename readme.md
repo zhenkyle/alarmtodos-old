@@ -86,6 +86,7 @@ npm install grunt --save-dev
 npm install grunt-contrib-jshint  -save-dev
 npm install grunt-contrib-uglify  -save-dev
 npm install grunt-bower-requirejs --save-dev
+npm install grunt-contrib-qunit --save-dev
 ```
 
 Setup `bower.json`

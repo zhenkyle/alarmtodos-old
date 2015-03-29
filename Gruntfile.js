@@ -37,6 +37,7 @@ module.exports = function (grunt) {
   grunt.registerTask('default', [
     'bowerRequirejs',
     'jshint',
+    'qunit',
     'uglify'
   ]);
   
@@ -44,4 +45,5 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-bower-requirejs');
+  grunt.loadNpmTasks('grunt-contrib-qunit');
 };
