@@ -29,7 +29,7 @@ module.exports = function (grunt) {
     },
     bowerRequirejs: {
       target: {
-        rjsConfig: 'src/js/config.js'
+        rjsConfig: 'js/require-config.js'
       }
     }
   });
