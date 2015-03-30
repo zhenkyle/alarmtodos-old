@@ -1,4 +1,4 @@
-define(['backbone','backbone.localStorage','models/todo'], function(Backbone,localStorage,Todo) {
+define(['backbone','backbone.localStorage','models/Todo'], function(Backbone,localStorage,Todo) {
   // Todo Collection
   // ---------------
 

@@ -1,4 +1,4 @@
-define(['jquery','underscore','backbone','views/todoview'], function($,_,Backbone,TodoView) {
+define(['jquery','underscore','backbone','views/Todoview'], function($,_,Backbone,TodoView) {
   // The Application
   // ---------------
 
