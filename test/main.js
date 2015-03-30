@@ -9,7 +9,7 @@ require(['require-config'],function(){
 	// extension so RequireJS resolves them as relative paths rather than using
 	// the `baseUrl` value supplied above.
 	var testModules = [
-		"models/todoTests.js"
+		"models/TodoTests.js"
 	];
 
     // Resolve all testModules and then start the Test Runner.
