@@ -1,6 +1,6 @@
 require(['require-config'],function(){
 	// RequireJS has been configured. It's now saft to load application code.
-	require(['collections/todolist'], function(TodoList) {
+	require(['collections/Todolist'], function(TodoList) {
 
 	  // Create our global collection of **Todos**.
 	  Todos = new TodoList;
